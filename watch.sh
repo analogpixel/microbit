@@ -1,1 +1,1 @@
-uflash -w ex1.py
+uflash -w ex3.py /media/usb
